@@ -1,0 +1,1 @@
+For this lab I tried to use observer pattern to improve preformance.

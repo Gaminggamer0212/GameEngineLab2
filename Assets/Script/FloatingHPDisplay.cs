@@ -26,9 +26,9 @@ public class FloatingHPDisplay : EnemyHPUI
         healthFillImage.color = Color.Lerp(minColor, maxColor, adjustedRatio);
     }
     
-    void Update()
+    /*void Update()
     {
         transform.rotation = cam.transform.rotation;
         transform.position = target.position + offset;
-    }
+    }*/
 }
