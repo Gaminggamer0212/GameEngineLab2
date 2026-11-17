@@ -1,3 +1,5 @@
+# Observer pattern performance increase lab 2
+
 Anson Leung 100748012
 
 For this lab I tried to use observer pattern to improve performance. There are some leftover code with UI stuff but it was interfering with performance too much to see how the observer pattern could help. Also, some of these code is from my last year's game.
